@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576243804 source:q:\bts 1er annee\informatique et reseaux\language c\td3\adresse\main.c
+	<stdio.h>
+	<stdlib.h>
+
